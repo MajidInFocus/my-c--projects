@@ -22,7 +22,6 @@ int main() {
     return 0;
 }
 
-/*
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
@@ -255,4 +254,4 @@ int UIandCalculations(double &points, int pullNumber) {
 
   return points;
 }
-*/
+
